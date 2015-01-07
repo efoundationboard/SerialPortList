@@ -1,0 +1,10 @@
+{
+  "name": "SerialPortList",
+  "version": "0.0.1",
+  "description": "Example code to list all the serial ports and try to communicate with them.",
+  "author": "Edward Jiang",
+  "dependencies": {
+    "q" : "~1.0.1",
+    "serialport": "1.4.x"
+  }
+}
